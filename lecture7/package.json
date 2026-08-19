@@ -1,0 +1,12 @@
+{
+  "name": "lecture7",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon script.js",
+    "dev": "nodemon script.js"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
